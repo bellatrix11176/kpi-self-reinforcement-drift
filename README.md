@@ -2,8 +2,7 @@
 ## Governance Signals for AI-Optimized Call Centers
 
 📄 **Paper (PDF):**  
-**When KPIs Lie: Governance Signals for AI-Optimized Call Centers** — *Gina Aulabaugh, February 2026* :contentReference[oaicite:0]{index=0}  
-➡️ **[Read the full paper](./When_KPIs_Lie__Governance_Signals_for_AI_Optimized_Call_Centers.pdf)**
+**When KPIs Lie: Governance Signals for AI-Optimized Call Centers** — *Gina Aulabaugh, February 2026* :contentReference[oaicite:0]{index=0}
 
 ---
 

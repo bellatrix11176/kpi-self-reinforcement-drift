@@ -1,19 +1,21 @@
 ⚠️ IMPORTANT NOTICE
 
-This repository contains code and content developed by Gina Aulabaugh / Pixelkraze LLC using generative AI as a tool for translating original concepts and frameworks into working code.
-
-This work is currently in active development and contains known hallucinations and drift introduced during the generative AI assisted development process. It requires significant cleanup and should not be used in any production environment at this time.
+This repository contains research and frameworks developed by Gina Aulabaugh / Pixelkraze LLC using generative AI as a tool for articulating and translating original concepts and ideas.
 
 The underlying ideas, frameworks, and methodologies are original work authored by Gina Aulabaugh and are protected under the license terms included in this repository.
 
-Use at your own risk.
-
 ---
 
-Copyright (C) 2026 Gina Aulabaugh / Pixelkraze LLC
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Copyright (c) 2026 Gina Aulabaugh / PixelKraze, LLC
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material.
 
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+Under the following terms: Attribution — You must give appropriate credit to Gina Aulabaugh / PixelKraze, LLC, provide a link to the license, and indicate if changes were made.
+
+NonCommercial — You may not use the material for commercial purposes without explicit written permission from the copyright holder.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
